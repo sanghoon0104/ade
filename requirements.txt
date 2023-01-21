@@ -1,0 +1,6 @@
+pip install os-sys
+pip install tkinter
+pip install moviepy
+pip install pytube
+pip install customtkinter
+pip install ffmpeg
