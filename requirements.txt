@@ -1,4 +1,3 @@
-# os-sys
 tk
 moviepy
 pytube

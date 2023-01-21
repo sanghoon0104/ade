@@ -35,8 +35,9 @@ def lowVideo():
     
 def highvideo() :
     #url = "https://www.youtube.com/watch?v=X8jjlicVUyY"
-    audiofile = "C:\\Users\\sanghoon\\udl\\audio"
-    videofile = "C:\\Users\\sanghoon\\udl\\video"
+    #audio file
+    audiofile = "C:\\Users\\sanghoon\\ade\\audio"
+    videofile = "C:\\Users\\sanghoon\\ade\\video"
 
     def ydown():
         yt = YouTube(entry_2.get())
