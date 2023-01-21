@@ -1,5 +1,4 @@
-os-sys
-tkinter
+tk
 moviepy
 pytube
 customtkinter
