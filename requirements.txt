@@ -3,3 +3,4 @@ moviepy
 pytube
 customtkinter
 ffmpeg
+eyed3
